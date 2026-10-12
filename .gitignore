@@ -1,0 +1,11 @@
+
+expenses.db
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.csv
+__pycache__/
+*.pyc
+venv/
+.venv/
