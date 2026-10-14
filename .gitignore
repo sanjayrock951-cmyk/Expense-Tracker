@@ -1,11 +1,8 @@
 
+__pycache__/
+*.py[cod]
 expenses.db
 *.db
-*.sqlite
-*.sqlite3
-*.pdf
-*.csv
-__pycache__/
-*.pyc
-venv/
 .venv/
+venv/
+.env
