@@ -49,3 +49,7 @@ A Python-based desktop application to manage daily expenses, track monthly budge
 Sanjay Kushwaha
 
 B.Tech Information Technology Student
+
+## 📸 Application Screenshot
+
+![Expense Tracker Dashboard](dashboard.png)
